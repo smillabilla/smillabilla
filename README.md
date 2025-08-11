@@ -2,11 +2,11 @@
 <h4 align="center">A passionate learner fascinated with cybersecurity, a safer Internet, and building a better future today.</h4>
 </br>
 
-- 🌱 I’m currently learning **coding (C, bash) at 42 Heilbronn.**
+- 🌱 I’m currently learning **coding (C, bash) and ethical hacking.**
 
-- 🔭 I’m currently working on [Feedbacktime](https://www.feedbacktime.org/) - because every time is feedback time!
+- 🔭 I’m Co-Founder and COO of [Feedbacktime](https://www.feedbacktime.org/) - helping change agents to transform better and faster!
 
-- 📝 I regularly write articles on [Smilla's Monday Mix on Substack](https://smillatech.substack.com/).
+- 📝 I share my thoughts on futures thinking, responsible tech and leadership [Smilla's Monday Mix on Substack](https://smillatech.substack.com/).
 
 - 💬 Ask me about **corporate innovation, corporate startups, leadership development.**
 
