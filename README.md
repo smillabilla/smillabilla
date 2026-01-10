@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **coding (C, bash) and ethical hacking.**
 
-- 🔭 I’m Co-Founder and COO of [Feedbacktime](https://www.feedbacktime.org/) - helping change agents to transform better and faster!
+- 🔭 I’m CEO and founder of [Feedbacktime](https://www.feedbacktime.org/) - helping change agents to transform better and faster!
 
 - 📝 I share my thoughts on futures thinking, responsible tech and leadership [Smilla's Monday Mix on Substack](https://smillatech.substack.com/).
 
